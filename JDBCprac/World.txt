@@ -1,0 +1,684 @@
+ID-----Name-----CountryCode-----District-----Population-----
+
+1024-----Mumbai (Bombay)-----IND-----Maharashtra-----10500000-----
+
+1025-----Delhi-----IND-----Delhi-----7206704-----
+
+1026-----Calcutta [Kolkata]-----IND-----West Bengali-----4399819-----
+
+1027-----Chennai (Madras)-----IND-----Tamil Nadu-----3841396-----
+
+1028-----Hyderabad-----IND-----Andhra Pradesh-----2964638-----
+
+1029-----Ahmedabad-----IND-----Gujarat-----2876710-----
+
+1030-----Bangalore-----IND-----Karnataka-----2660088-----
+
+1031-----Kanpur-----IND-----Uttar Pradesh-----1874409-----
+
+1032-----Nagpur-----IND-----Maharashtra-----1624752-----
+
+1033-----Lucknow-----IND-----Uttar Pradesh-----1619115-----
+
+1034-----Pune-----IND-----Maharashtra-----1566651-----
+
+1035-----Surat-----IND-----Gujarat-----1498817-----
+
+1036-----Jaipur-----IND-----Rajasthan-----1458483-----
+
+1037-----Indore-----IND-----Madhya Pradesh-----1091674-----
+
+1038-----Bhopal-----IND-----Madhya Pradesh-----1062771-----
+
+1039-----Ludhiana-----IND-----Punjab-----1042740-----
+
+1040-----Vadodara (Baroda)-----IND-----Gujarat-----1031346-----
+
+1041-----Kalyan-----IND-----Maharashtra-----1014557-----
+
+1042-----Madurai-----IND-----Tamil Nadu-----977856-----
+
+1043-----Haora (Howrah)-----IND-----West Bengali-----950435-----
+
+1044-----Varanasi (Benares)-----IND-----Uttar Pradesh-----929270-----
+
+1045-----Patna-----IND-----Bihar-----917243-----
+
+1046-----Srinagar-----IND-----Jammu and Kashmir-----892506-----
+
+1047-----Agra-----IND-----Uttar Pradesh-----891790-----
+
+1048-----Coimbatore-----IND-----Tamil Nadu-----816321-----
+
+1049-----Thane (Thana)-----IND-----Maharashtra-----803389-----
+
+1050-----Allahabad-----IND-----Uttar Pradesh-----792858-----
+
+1051-----Meerut-----IND-----Uttar Pradesh-----753778-----
+
+1052-----Vishakhapatnam-----IND-----Andhra Pradesh-----752037-----
+
+1053-----Jabalpur-----IND-----Madhya Pradesh-----741927-----
+
+1054-----Amritsar-----IND-----Punjab-----708835-----
+
+1055-----Faridabad-----IND-----Haryana-----703592-----
+
+1056-----Vijayawada-----IND-----Andhra Pradesh-----701827-----
+
+1057-----Gwalior-----IND-----Madhya Pradesh-----690765-----
+
+1058-----Jodhpur-----IND-----Rajasthan-----666279-----
+
+1059-----Nashik (Nasik)-----IND-----Maharashtra-----656925-----
+
+1060-----Hubli-Dharwad-----IND-----Karnataka-----648298-----
+
+1061-----Solapur (Sholapur)-----IND-----Maharashtra-----604215-----
+
+1062-----Ranchi-----IND-----Jharkhand-----599306-----
+
+1063-----Bareilly-----IND-----Uttar Pradesh-----587211-----
+
+1064-----Guwahati (Gauhati)-----IND-----Assam-----584342-----
+
+1065-----Shambajinagar (Aurangabad)-----IND-----Maharashtra-----573272-----
+
+1066-----Cochin (Kochi)-----IND-----Kerala-----564589-----
+
+1067-----Rajkot-----IND-----Gujarat-----559407-----
+
+1068-----Kota-----IND-----Rajasthan-----537371-----
+
+1069-----Thiruvananthapuram (Trivandrum-----IND-----Kerala-----524006-----
+
+1070-----Pimpri-Chinchwad-----IND-----Maharashtra-----517083-----
+
+1071-----Jalandhar (Jullundur)-----IND-----Punjab-----509510-----
+
+1072-----Gorakhpur-----IND-----Uttar Pradesh-----505566-----
+
+1073-----Chandigarh-----IND-----Chandigarh-----504094-----
+
+1074-----Mysore-----IND-----Karnataka-----480692-----
+
+1075-----Aligarh-----IND-----Uttar Pradesh-----480520-----
+
+1076-----Guntur-----IND-----Andhra Pradesh-----471051-----
+
+1077-----Jamshedpur-----IND-----Jharkhand-----460577-----
+
+1078-----Ghaziabad-----IND-----Uttar Pradesh-----454156-----
+
+1079-----Warangal-----IND-----Andhra Pradesh-----447657-----
+
+1080-----Raipur-----IND-----Chhatisgarh-----438639-----
+
+1081-----Moradabad-----IND-----Uttar Pradesh-----429214-----
+
+1082-----Durgapur-----IND-----West Bengali-----425836-----
+
+1083-----Amravati-----IND-----Maharashtra-----421576-----
+
+1084-----Calicut (Kozhikode)-----IND-----Kerala-----419831-----
+
+1085-----Bikaner-----IND-----Rajasthan-----416289-----
+
+1086-----Bhubaneswar-----IND-----Orissa-----411542-----
+
+1087-----Kolhapur-----IND-----Maharashtra-----406370-----
+
+1088-----Kataka (Cuttack)-----IND-----Orissa-----403418-----
+
+1089-----Ajmer-----IND-----Rajasthan-----402700-----
+
+1090-----Bhavnagar-----IND-----Gujarat-----402338-----
+
+1091-----Tiruchirapalli-----IND-----Tamil Nadu-----387223-----
+
+1092-----Bhilai-----IND-----Chhatisgarh-----386159-----
+
+1093-----Bhiwandi-----IND-----Maharashtra-----379070-----
+
+1094-----Saharanpur-----IND-----Uttar Pradesh-----374945-----
+
+1095-----Ulhasnagar-----IND-----Maharashtra-----369077-----
+
+1096-----Salem-----IND-----Tamil Nadu-----366712-----
+
+1097-----Ujjain-----IND-----Madhya Pradesh-----362266-----
+
+1098-----Malegaon-----IND-----Maharashtra-----342595-----
+
+1099-----Jamnagar-----IND-----Gujarat-----341637-----
+
+1100-----Bokaro Steel City-----IND-----Jharkhand-----333683-----
+
+1101-----Akola-----IND-----Maharashtra-----328034-----
+
+1102-----Belgaum-----IND-----Karnataka-----326399-----
+
+1103-----Rajahmundry-----IND-----Andhra Pradesh-----324851-----
+
+1104-----Nellore-----IND-----Andhra Pradesh-----316606-----
+
+1105-----Udaipur-----IND-----Rajasthan-----308571-----
+
+1106-----New Bombay-----IND-----Maharashtra-----307297-----
+
+1107-----Bhatpara-----IND-----West Bengali-----304952-----
+
+1108-----Gulbarga-----IND-----Karnataka-----304099-----
+
+1109-----New Delhi-----IND-----Delhi-----301297-----
+
+1110-----Jhansi-----IND-----Uttar Pradesh-----300850-----
+
+1111-----Gaya-----IND-----Bihar-----291675-----
+
+1112-----Kakinada-----IND-----Andhra Pradesh-----279980-----
+
+1113-----Dhule (Dhulia)-----IND-----Maharashtra-----278317-----
+
+1114-----Panihati-----IND-----West Bengali-----275990-----
+
+1115-----Nanded (Nander)-----IND-----Maharashtra-----275083-----
+
+1116-----Mangalore-----IND-----Karnataka-----273304-----
+
+1117-----Dehra Dun-----IND-----Uttaranchal-----270159-----
+
+1118-----Kamarhati-----IND-----West Bengali-----266889-----
+
+1119-----Davangere-----IND-----Karnataka-----266082-----
+
+1120-----Asansol-----IND-----West Bengali-----262188-----
+
+1121-----Bhagalpur-----IND-----Bihar-----253225-----
+
+1122-----Bellary-----IND-----Karnataka-----245391-----
+
+1123-----Barddhaman (Burdwan)-----IND-----West Bengali-----245079-----
+
+1124-----Rampur-----IND-----Uttar Pradesh-----243742-----
+
+1125-----Jalgaon-----IND-----Maharashtra-----242193-----
+
+1126-----Muzaffarpur-----IND-----Bihar-----241107-----
+
+1127-----Nizamabad-----IND-----Andhra Pradesh-----241034-----
+
+1128-----Muzaffarnagar-----IND-----Uttar Pradesh-----240609-----
+
+1129-----Patiala-----IND-----Punjab-----238368-----
+
+1130-----Shahjahanpur-----IND-----Uttar Pradesh-----237713-----
+
+1131-----Kurnool-----IND-----Andhra Pradesh-----236800-----
+
+1132-----Tiruppur (Tirupper)-----IND-----Tamil Nadu-----235661-----
+
+1133-----Rohtak-----IND-----Haryana-----233400-----
+
+1134-----South Dum Dum-----IND-----West Bengali-----232811-----
+
+1135-----Mathura-----IND-----Uttar Pradesh-----226691-----
+
+1136-----Chandrapur-----IND-----Maharashtra-----226105-----
+
+1137-----Barahanagar (Baranagar)-----IND-----West Bengali-----224821-----
+
+1138-----Darbhanga-----IND-----Bihar-----218391-----
+
+1139-----Siliguri (Shiliguri)-----IND-----West Bengali-----216950-----
+
+1140-----Raurkela-----IND-----Orissa-----215489-----
+
+1141-----Ambattur-----IND-----Tamil Nadu-----215424-----
+
+1142-----Panipat-----IND-----Haryana-----215218-----
+
+1143-----Firozabad-----IND-----Uttar Pradesh-----215128-----
+
+1144-----Ichalkaranji-----IND-----Maharashtra-----214950-----
+
+1145-----Jammu-----IND-----Jammu and Kashmir-----214737-----
+
+1146-----Ramagundam-----IND-----Andhra Pradesh-----214384-----
+
+1147-----Eluru-----IND-----Andhra Pradesh-----212866-----
+
+1148-----Brahmapur-----IND-----Orissa-----210418-----
+
+1149-----Alwar-----IND-----Rajasthan-----205086-----
+
+1150-----Pondicherry-----IND-----Pondicherry-----203065-----
+
+1151-----Thanjavur-----IND-----Tamil Nadu-----202013-----
+
+1152-----Bihar Sharif-----IND-----Bihar-----201323-----
+
+1153-----Tuticorin-----IND-----Tamil Nadu-----199854-----
+
+1154-----Imphal-----IND-----Manipur-----198535-----
+
+1155-----Latur-----IND-----Maharashtra-----197408-----
+
+1156-----Sagar-----IND-----Madhya Pradesh-----195346-----
+
+1157-----Farrukhabad-cum-Fatehgarh-----IND-----Uttar Pradesh-----194567-----
+
+1158-----Sangli-----IND-----Maharashtra-----193197-----
+
+1159-----Parbhani-----IND-----Maharashtra-----190255-----
+
+1160-----Nagar Coil-----IND-----Tamil Nadu-----190084-----
+
+1161-----Bijapur-----IND-----Karnataka-----186939-----
+
+1162-----Kukatpalle-----IND-----Andhra Pradesh-----185378-----
+
+1163-----Bally-----IND-----West Bengali-----184474-----
+
+1164-----Bhilwara-----IND-----Rajasthan-----183965-----
+
+1165-----Ratlam-----IND-----Madhya Pradesh-----183375-----
+
+1166-----Avadi-----IND-----Tamil Nadu-----183215-----
+
+1167-----Dindigul-----IND-----Tamil Nadu-----182477-----
+
+1168-----Ahmadnagar-----IND-----Maharashtra-----181339-----
+
+1169-----Bilaspur-----IND-----Chhatisgarh-----179833-----
+
+1170-----Shimoga-----IND-----Karnataka-----179258-----
+
+1171-----Kharagpur-----IND-----West Bengali-----177989-----
+
+1172-----Mira Bhayandar-----IND-----Maharashtra-----175372-----
+
+1173-----Vellore-----IND-----Tamil Nadu-----175061-----
+
+1174-----Jalna-----IND-----Maharashtra-----174985-----
+
+1175-----Burnpur-----IND-----West Bengali-----174933-----
+
+1176-----Anantapur-----IND-----Andhra Pradesh-----174924-----
+
+1177-----Allappuzha (Alleppey)-----IND-----Kerala-----174666-----
+
+1178-----Tirupati-----IND-----Andhra Pradesh-----174369-----
+
+1179-----Karnal-----IND-----Haryana-----173751-----
+
+1180-----Burhanpur-----IND-----Madhya Pradesh-----172710-----
+
+1181-----Hisar (Hissar)-----IND-----Haryana-----172677-----
+
+1182-----Tiruvottiyur-----IND-----Tamil Nadu-----172562-----
+
+1183-----Mirzapur-cum-Vindhyachal-----IND-----Uttar Pradesh-----169336-----
+
+1184-----Secunderabad-----IND-----Andhra Pradesh-----167461-----
+
+1185-----Nadiad-----IND-----Gujarat-----167051-----
+
+1186-----Dewas-----IND-----Madhya Pradesh-----164364-----
+
+1187-----Murwara (Katni)-----IND-----Madhya Pradesh-----163431-----
+
+1188-----Ganganagar-----IND-----Rajasthan-----161482-----
+
+1189-----Vizianagaram-----IND-----Andhra Pradesh-----160359-----
+
+1190-----Erode-----IND-----Tamil Nadu-----159232-----
+
+1191-----Machilipatnam (Masulipatam)-----IND-----Andhra Pradesh-----159110-----
+
+1192-----Bhatinda (Bathinda)-----IND-----Punjab-----159042-----
+
+1193-----Raichur-----IND-----Karnataka-----157551-----
+
+1194-----Agartala-----IND-----Tripura-----157358-----
+
+1195-----Arrah (Ara)-----IND-----Bihar-----157082-----
+
+1196-----Satna-----IND-----Madhya Pradesh-----156630-----
+
+1197-----Lalbahadur Nagar-----IND-----Andhra Pradesh-----155500-----
+
+1198-----Aizawl-----IND-----Mizoram-----155240-----
+
+1199-----Uluberia-----IND-----West Bengali-----155172-----
+
+1200-----Katihar-----IND-----Bihar-----154367-----
+
+1201-----Cuddalore-----IND-----Tamil Nadu-----153086-----
+
+1202-----Hugli-Chinsurah-----IND-----West Bengali-----151806-----
+
+1203-----Dhanbad-----IND-----Jharkhand-----151789-----
+
+1204-----Raiganj-----IND-----West Bengali-----151045-----
+
+1205-----Sambhal-----IND-----Uttar Pradesh-----150869-----
+
+1206-----Durg-----IND-----Chhatisgarh-----150645-----
+
+1207-----Munger (Monghyr)-----IND-----Bihar-----150112-----
+
+1208-----Kanchipuram-----IND-----Tamil Nadu-----150100-----
+
+1209-----North Dum Dum-----IND-----West Bengali-----149965-----
+
+1210-----Karimnagar-----IND-----Andhra Pradesh-----148583-----
+
+1211-----Bharatpur-----IND-----Rajasthan-----148519-----
+
+1212-----Sikar-----IND-----Rajasthan-----148272-----
+
+1213-----Hardwar (Haridwar)-----IND-----Uttaranchal-----147305-----
+
+1214-----Dabgram-----IND-----West Bengali-----147217-----
+
+1215-----Morena-----IND-----Madhya Pradesh-----147124-----
+
+1216-----Noida-----IND-----Uttar Pradesh-----146514-----
+
+1217-----Hapur-----IND-----Uttar Pradesh-----146262-----
+
+1218-----Bhusawal-----IND-----Maharashtra-----145143-----
+
+1219-----Khandwa-----IND-----Madhya Pradesh-----145133-----
+
+1220-----Yamuna Nagar-----IND-----Haryana-----144346-----
+
+1221-----Sonipat (Sonepat)-----IND-----Haryana-----143922-----
+
+1222-----Tenali-----IND-----Andhra Pradesh-----143726-----
+
+1223-----Raurkela Civil Township-----IND-----Orissa-----140408-----
+
+1224-----Kollam (Quilon)-----IND-----Kerala-----139852-----
+
+1225-----Kumbakonam-----IND-----Tamil Nadu-----139483-----
+
+1226-----Ingraj Bazar (English Bazar)-----IND-----West Bengali-----139204-----
+
+1227-----Timkur-----IND-----Karnataka-----138903-----
+
+1228-----Amroha-----IND-----Uttar Pradesh-----137061-----
+
+1229-----Serampore-----IND-----West Bengali-----137028-----
+
+1230-----Chapra-----IND-----Bihar-----136877-----
+
+1231-----Pali-----IND-----Rajasthan-----136842-----
+
+1232-----Maunath Bhanjan-----IND-----Uttar Pradesh-----136697-----
+
+1233-----Adoni-----IND-----Andhra Pradesh-----136182-----
+
+1234-----Jaunpur-----IND-----Uttar Pradesh-----136062-----
+
+1235-----Tirunelveli-----IND-----Tamil Nadu-----135825-----
+
+1236-----Bahraich-----IND-----Uttar Pradesh-----135400-----
+
+1237-----Gadag Betigeri-----IND-----Karnataka-----134051-----
+
+1238-----Proddatur-----IND-----Andhra Pradesh-----133914-----
+
+1239-----Chittoor-----IND-----Andhra Pradesh-----133462-----
+
+1240-----Barrackpur-----IND-----West Bengali-----133265-----
+
+1241-----Bharuch (Broach)-----IND-----Gujarat-----133102-----
+
+1242-----Naihati-----IND-----West Bengali-----132701-----
+
+1243-----Shillong-----IND-----Meghalaya-----131719-----
+
+1244-----Sambalpur-----IND-----Orissa-----131138-----
+
+1245-----Junagadh-----IND-----Gujarat-----130484-----
+
+1246-----Rae Bareli-----IND-----Uttar Pradesh-----129904-----
+
+1247-----Rewa-----IND-----Madhya Pradesh-----128981-----
+
+1248-----Gurgaon-----IND-----Haryana-----128608-----
+
+1249-----Khammam-----IND-----Andhra Pradesh-----127992-----
+
+1250-----Bulandshahr-----IND-----Uttar Pradesh-----127201-----
+
+1251-----Navsari-----IND-----Gujarat-----126089-----
+
+1252-----Malkajgiri-----IND-----Andhra Pradesh-----126066-----
+
+1253-----Midnapore (Medinipur)-----IND-----West Bengali-----125498-----
+
+1254-----Miraj-----IND-----Maharashtra-----125407-----
+
+1255-----Raj Nandgaon-----IND-----Chhatisgarh-----125371-----
+
+1256-----Alandur-----IND-----Tamil Nadu-----125244-----
+
+1257-----Puri-----IND-----Orissa-----125199-----
+
+1258-----Navadwip-----IND-----West Bengali-----125037-----
+
+1259-----Sirsa-----IND-----Haryana-----125000-----
+
+1260-----Korba-----IND-----Chhatisgarh-----124501-----
+
+1261-----Faizabad-----IND-----Uttar Pradesh-----124437-----
+
+1262-----Etawah-----IND-----Uttar Pradesh-----124072-----
+
+1263-----Pathankot-----IND-----Punjab-----123930-----
+
+1264-----Gandhinagar-----IND-----Gujarat-----123359-----
+
+1265-----Palghat (Palakkad)-----IND-----Kerala-----123289-----
+
+1266-----Veraval-----IND-----Gujarat-----123000-----
+
+1267-----Hoshiarpur-----IND-----Punjab-----122705-----
+
+1268-----Ambala-----IND-----Haryana-----122596-----
+
+1269-----Sitapur-----IND-----Uttar Pradesh-----121842-----
+
+1270-----Bhiwani-----IND-----Haryana-----121629-----
+
+1271-----Cuddapah-----IND-----Andhra Pradesh-----121463-----
+
+1272-----Bhimavaram-----IND-----Andhra Pradesh-----121314-----
+
+1273-----Krishnanagar-----IND-----West Bengali-----121110-----
+
+1274-----Chandannagar-----IND-----West Bengali-----120378-----
+
+1275-----Mandya-----IND-----Karnataka-----120265-----
+
+1276-----Dibrugarh-----IND-----Assam-----120127-----
+
+1277-----Nandyal-----IND-----Andhra Pradesh-----119813-----
+
+1278-----Balurghat-----IND-----West Bengali-----119796-----
+
+1279-----Neyveli-----IND-----Tamil Nadu-----118080-----
+
+1280-----Fatehpur-----IND-----Uttar Pradesh-----117675-----
+
+1281-----Mahbubnagar-----IND-----Andhra Pradesh-----116833-----
+
+1282-----Budaun-----IND-----Uttar Pradesh-----116695-----
+
+1283-----Porbandar-----IND-----Gujarat-----116671-----
+
+1284-----Silchar-----IND-----Assam-----115483-----
+
+1285-----Berhampore (Baharampur)-----IND-----West Bengali-----115144-----
+
+1286-----Purnea (Purnia)-----IND-----Jharkhand-----114912-----
+
+1287-----Bankura-----IND-----West Bengali-----114876-----
+
+1288-----Rajapalaiyam-----IND-----Tamil Nadu-----114202-----
+
+1289-----Titagarh-----IND-----West Bengali-----114085-----
+
+1290-----Halisahar-----IND-----West Bengali-----114028-----
+
+1291-----Hathras-----IND-----Uttar Pradesh-----113285-----
+
+1292-----Bhir (Bid)-----IND-----Maharashtra-----112434-----
+
+1293-----Pallavaram-----IND-----Tamil Nadu-----111866-----
+
+1294-----Anand-----IND-----Gujarat-----110266-----
+
+1295-----Mango-----IND-----Jharkhand-----110024-----
+
+1296-----Santipur-----IND-----West Bengali-----109956-----
+
+1297-----Bhind-----IND-----Madhya Pradesh-----109755-----
+
+1298-----Gondiya-----IND-----Maharashtra-----109470-----
+
+1299-----Tiruvannamalai-----IND-----Tamil Nadu-----109196-----
+
+1300-----Yeotmal (Yavatmal)-----IND-----Maharashtra-----108578-----
+
+1301-----Kulti-Barakar-----IND-----West Bengali-----108518-----
+
+1302-----Moga-----IND-----Punjab-----108304-----
+
+1303-----Shivapuri-----IND-----Madhya Pradesh-----108277-----
+
+1304-----Bidar-----IND-----Karnataka-----108016-----
+
+1305-----Guntakal-----IND-----Andhra Pradesh-----107592-----
+
+1306-----Unnao-----IND-----Uttar Pradesh-----107425-----
+
+1307-----Barasat-----IND-----West Bengali-----107365-----
+
+1308-----Tambaram-----IND-----Tamil Nadu-----107187-----
+
+1309-----Abohar-----IND-----Punjab-----107163-----
+
+1310-----Pilibhit-----IND-----Uttar Pradesh-----106605-----
+
+1311-----Valparai-----IND-----Tamil Nadu-----106523-----
+
+1312-----Gonda-----IND-----Uttar Pradesh-----106078-----
+
+1313-----Surendranagar-----IND-----Gujarat-----105973-----
+
+1314-----Qutubullapur-----IND-----Andhra Pradesh-----105380-----
+
+1315-----Beawar-----IND-----Rajasthan-----105363-----
+
+1316-----Hindupur-----IND-----Andhra Pradesh-----104651-----
+
+1317-----Gandhidham-----IND-----Gujarat-----104585-----
+
+1318-----Haldwani-cum-Kathgodam-----IND-----Uttaranchal-----104195-----
+
+1319-----Tellicherry (Thalassery)-----IND-----Kerala-----103579-----
+
+1320-----Wardha-----IND-----Maharashtra-----102985-----
+
+1321-----Rishra-----IND-----West Bengali-----102649-----
+
+1322-----Bhuj-----IND-----Gujarat-----102176-----
+
+1323-----Modinagar-----IND-----Uttar Pradesh-----101660-----
+
+1324-----Gudivada-----IND-----Andhra Pradesh-----101656-----
+
+1325-----Basirhat-----IND-----West Bengali-----101409-----
+
+1326-----Uttarpara-Kotrung-----IND-----West Bengali-----100867-----
+
+1327-----Ongole-----IND-----Andhra Pradesh-----100836-----
+
+1328-----North Barrackpur-----IND-----West Bengali-----100513-----
+
+1329-----Guna-----IND-----Madhya Pradesh-----100490-----
+
+1330-----Haldia-----IND-----West Bengali-----100347-----
+
+1331-----Habra-----IND-----West Bengali-----100223-----
+
+1332-----Kanchrapara-----IND-----West Bengali-----100194-----
+
+1333-----Tonk-----IND-----Rajasthan-----100079-----
+
+1334-----Champdani-----IND-----West Bengali-----98818-----
+
+1335-----Orai-----IND-----Uttar Pradesh-----98640-----
+
+1336-----Pudukkottai-----IND-----Tamil Nadu-----98619-----
+
+1337-----Sasaram-----IND-----Bihar-----98220-----
+
+1338-----Hazaribag-----IND-----Jharkhand-----97712-----
+
+1339-----Palayankottai-----IND-----Tamil Nadu-----97662-----
+
+1340-----Banda-----IND-----Uttar Pradesh-----97227-----
+
+1341-----Godhra-----IND-----Gujarat-----96813-----
+
+1342-----Hospet-----IND-----Karnataka-----96322-----
+
+1343-----Ashoknagar-Kalyangarh-----IND-----West Bengali-----96315-----
+
+1344-----Achalpur-----IND-----Maharashtra-----96216-----
+
+1345-----Patan-----IND-----Gujarat-----96109-----
+
+1346-----Mandasor-----IND-----Madhya Pradesh-----95758-----
+
+1347-----Damoh-----IND-----Madhya Pradesh-----95661-----
+
+1348-----Satara-----IND-----Maharashtra-----95133-----
+
+1349-----Meerut Cantonment-----IND-----Uttar Pradesh-----94876-----
+
+1350-----Dehri-----IND-----Bihar-----94526-----
+
+1351-----Delhi Cantonment-----IND-----Delhi-----94326-----
+
+1352-----Chhindwara-----IND-----Madhya Pradesh-----93731-----
+
+1353-----Bansberia-----IND-----West Bengali-----93447-----
+
+1354-----Nagaon-----IND-----Assam-----93350-----
+
+1355-----Kanpur Cantonment-----IND-----Uttar Pradesh-----93109-----
+
+1356-----Vidisha-----IND-----Madhya Pradesh-----92917-----
+
+1357-----Bettiah-----IND-----Bihar-----92583-----
+
+1358-----Purulia-----IND-----Jharkhand-----92574-----
+
+1359-----Hassan-----IND-----Karnataka-----90803-----
+
+1360-----Ambala Sadar-----IND-----Haryana-----90712-----
+
+1361-----Baidyabati-----IND-----West Bengali-----90601-----
+
+1362-----Morvi-----IND-----Gujarat-----90357-----
+
+1363-----Raigarh-----IND-----Chhatisgarh-----89166-----
+
+1364-----Vejalpur-----IND-----Gujarat-----89053-----
+
